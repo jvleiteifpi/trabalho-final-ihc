@@ -34,6 +34,10 @@ A versão de alta fidelidade do protótipo traz um design mais elaborado, com co
 
 [Protótipo Alta Fidelidade](https://www.figma.com/design/pbnBMFSMhFD6XYJSU96RzP/Untitled?node-id=0-1&t=7V5EqpsBoy2VIgdJ-1)
 
+![Protótipo Alta Fidelidade1](https://github.com/jvleiteifpi/trabalho-final-ihc/blob/main/assets/image/alta-fide-01.jpg?raw=true)
+![Protótipo Alta Fidelidade2](https://github.com/jvleiteifpi/trabalho-final-ihc/blob/main/assets/image/alta-fide-02.jpg?raw=true)
+![Protótipo Alta Fidelidade3](https://github.com/jvleiteifpi/trabalho-final-ihc/blob/main/assets/image/alta-fide-03.jpg?raw=true)
+
 ---
 
 # Forms
