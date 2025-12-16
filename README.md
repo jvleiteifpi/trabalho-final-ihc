@@ -24,7 +24,7 @@ A criação de personas foi essencial para entendermos as necessidades e comport
 
 O protótipo de baixa fidelidade tem como objetivo representar as ideias principais do design de forma simples e rápida. Ele ajuda a visualizar o fluxo de navegação e os principais elementos da interface, sem se preocupar com detalhes de design.
 
-[Protótipo Baixa Fidelidade](link-para-imagem)
+![Protótipo Baixa Fidelidade](https://github.com/jvleiteifpi/trabalho-final-ihc/blob/main/assets/image/baixa_fidelidade.jpg?raw=true)
 
 ---
 
