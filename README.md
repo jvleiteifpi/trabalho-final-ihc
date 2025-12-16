@@ -46,5 +46,5 @@ A versão de alta fidelidade do protótipo traz um design mais elaborado, com co
 ---
 
 # Implementação
-Segue no próprio Github o código referente a implemntação da aplicação em voga.
+Segue no próprio Github o código referente a implementação da aplicação em voga.
 
