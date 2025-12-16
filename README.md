@@ -16,6 +16,8 @@ Muitas pessoas perdem o controle financeiro e gastam mais do que deveriam. Para 
 A criação de personas foi essencial para entendermos as necessidades e comportamentos dos usuários que irão utilizar o sistema. Abaixo está o link das personas do projeto:
 
 [Personas](https://www.canva.com/design/DAG2bZa64Vw/A413C7t4LxLkdm5ytJDNRg/edit)
+![Personas](https://github.com/jvleiteifpi/trabalho-final-ihc/blob/main/assets/image/perso-01.png?raw=true)
+![Personas](https://github.com/jvleiteifpi/trabalho-final-ihc/blob/main/assets/image/perso-02.png?raw=true)
 
 
 ---
