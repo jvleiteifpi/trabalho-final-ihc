@@ -14,6 +14,7 @@ Muitas pessoas perdem o controle financeiro e gastam mais do que deveriam. Para 
 # Personas do Projeto
 
 A criação de personas foi essencial para entendermos as necessidades e comportamentos dos usuários que irão utilizar o sistema. Abaixo está o link das personas do projeto:
+
 ![Personas](https://www.canva.com/design/DAG2bZa64Vw/A413C7t4LxLkdm5ytJDNRg/edit)
 
 
