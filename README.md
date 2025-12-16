@@ -1,4 +1,4 @@
-# Projeto Final IHC 
+# Projeto Final IHC - Dupla João Victor de Sousa Leite e Artur De Araújo Negreiros 
 
 # Descrição do Projeto
 
